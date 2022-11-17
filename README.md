@@ -8,4 +8,4 @@ Je rappelle également les dates limites pour la remise des trois versions du pr
 * **Version 2** = Dimanche 11 décembre à 23H59
 * **Version 3** = Dimanche 1er janvier à 23H59
 
-La séance de démonstration aura lieu durant la semaine du 2 au 6 janvier (en parallèle de la semaine "Ouverture Professionnelle")
+Les séances de démonstration auront lieu durant la semaine du 2 au 6 janvier (en parallèle de la semaine "Ouverture Professionnelle")
